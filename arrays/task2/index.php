@@ -33,3 +33,10 @@ function maxProfit($prices) {
 $array = [2,6,8,7,8,7,9,4,1,2,4,5,8];
 var_dump(maxProfit($array));
 
+
+/*
+200 / 200 test cases passed.
+Status: Accepted
+Runtime: 16 ms
+Memory Usage: 17.6 MB
+ */
