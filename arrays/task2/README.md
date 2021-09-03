@@ -1,7 +1,5 @@
 <h1>Arrays section</h1>
 
-<h3>Task 1</h2> 
-
 <h3>Task 2</h2>
 <p>You are given an integer array prices where prices[i] is the price of a given stock on the ith day.</p>
 <p>On each day, you may decide to buy and/or sell the stock. You can only hold at most one share of the stock at any time. However, you can buy it then immediately sell it on the same day.</p>
